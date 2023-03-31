@@ -12,7 +12,7 @@
 	"patch": {
 		"stabilityDays": 10,
 	},
-	"prConcurrentLimit": 5,
+	"prConcurrentLimit": 0,
 	"prHourlyLimit": 0,
 	"ignorePaths": [
 		"**/bower_components/**",
