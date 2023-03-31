@@ -55,7 +55,7 @@
     "node-rsa": "1.1.1",
     "open": "8.4.2",
     "proper-lockfile": "4.1.2",
-    "read-chunk": "2.1.0",
+    "read-chunk": "4.0.3",
     "server-destroy": "1.0.1",
     "sharp": "0.31.3",
     "sprintf-js": "1.1.2",
