@@ -4865,7 +4865,7 @@ __metadata:
     "@types/styled-components": 5.1.26
     async-mutex: 0.4.0
     codemirror: 5.65.9
-    color: 3.2.1
+    color: 4.2.3
     compare-versions: 3.6.0
     countable: 3.0.1
     debounce: 1.2.1
@@ -5105,7 +5105,7 @@ __metadata:
     builtin-modules: 3.3.0
     chokidar: 3.5.3
     clean-html: 1.5.0
-    color: 3.2.1
+    color: 4.2.3
     compare-versions: 3.6.0
     css: 3.0.0
     diff-match-patch: 1.0.5
@@ -11899,23 +11899,23 @@ __metadata:
   languageName: node
   linkType: hard
 
-"color@npm:3.2.1, color@npm:^3.1.2":
-  version: 3.2.1
-  resolution: "color@npm:3.2.1"
-  dependencies:
-    color-convert: ^1.9.3
-    color-string: ^1.6.0
-  checksum: f81220e8b774d35865c2561be921f5652117638dcda7ca4029262046e37fc2444ac7bbfdd110cf1fd9c074a4ee5eda8f85944ffbdda26186b602dd9bb05f6400
-  languageName: node
-  linkType: hard
-
-"color@npm:^4.2.3":
+"color@npm:4.2.3, color@npm:^4.2.3":
   version: 4.2.3
   resolution: "color@npm:4.2.3"
   dependencies:
     color-convert: ^2.0.1
     color-string: ^1.9.0
   checksum: 0579629c02c631b426780038da929cca8e8d80a40158b09811a0112a107c62e10e4aad719843b791b1e658ab4e800558f2e87ca4522c8b32349d497ecb6adeb4
+  languageName: node
+  linkType: hard
+
+"color@npm:^3.1.2":
+  version: 3.2.1
+  resolution: "color@npm:3.2.1"
+  dependencies:
+    color-convert: ^1.9.3
+    color-string: ^1.6.0
+  checksum: f81220e8b774d35865c2561be921f5652117638dcda7ca4029262046e37fc2444ac7bbfdd110cf1fd9c074a4ee5eda8f85944ffbdda26186b602dd9bb05f6400
   languageName: node
   linkType: hard
 
